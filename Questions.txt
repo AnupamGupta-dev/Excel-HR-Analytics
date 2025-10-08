@@ -1,0 +1,3 @@
+01. How many employees do we have and what is our age distribution?
+02. Do we pay for performance?
+03. Is there a salary gap between male and females employees?
